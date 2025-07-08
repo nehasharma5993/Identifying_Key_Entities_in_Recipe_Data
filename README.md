@@ -9,10 +9,10 @@
   
 
 ## General Information
+- The goal of this assignment is to train a Named Entity Recognition (NER) model using Conditional Random Fields (CRF) to extract key entities from recipe data.
+- The model will classify words into predefined categories such as ingredients, quantities and units, enabling the creation of a structured database of recipes and ingredients that can be used to power advanced features in recipe management systems, dietary tracking apps, or e-commerce platforms.
 - This data set comprises culinary recipes with a focus on ingredient extraction and analysis.
 - Each recipe features a structured ingredient list with labelled components, identifying ingredients, quantities and units.
-- The business objective is to leverage the increasing popularity of online cooking platforms and meal-planning apps by enhancing the user experience.
-- This can be achieved by implementing a custom-named entity recognition (NER) model to automatically tag ingredients, quantities and recipe names.
 - This automation will streamline the process of organising recipes, improve searchability and enable users to easily find recipes based on available ingredients, portion sizes or specific dietary requirements.
 
 
